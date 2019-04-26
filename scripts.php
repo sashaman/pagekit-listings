@@ -127,8 +127,8 @@ return [
             'title' => 'Sample List',
             'description' => 'Example of a simple list.<strong> Add the <em>code</em> to any page to view it.</strong>',
             'template_id'=>0,
-            'featured_from'=>1480575600,
-            'featured_to'=>1480633200,
+            'featured_from'=>2018-01-01,
+            'featured_to'=>2020-01-01,
             'position'=>0,
             'status'=>1
         ]);
